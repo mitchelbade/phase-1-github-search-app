@@ -5,7 +5,9 @@
 }
 
 #github-container {
-  display: flex;
+  display: inline;
+  text-align: center;
+  font-weight: bold;
 }
 
 ul {
